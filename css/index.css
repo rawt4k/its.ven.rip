@@ -6,6 +6,7 @@
 @import "nord.css";
 @import "home.css";
 @import "projects.css";
+@import "downloads.css";
 
 * {
     margin: 0;
