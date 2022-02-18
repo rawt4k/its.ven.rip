@@ -27,6 +27,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     justify-content: space-between;
+    text-align: center;
 }
 
 .hidden {
@@ -76,7 +77,6 @@ header {
 
 .main-body {
     margin: 3em;
-    text-align: center;
     margin-top: 1em;
 }
 
