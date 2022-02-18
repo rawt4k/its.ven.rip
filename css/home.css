@@ -35,6 +35,7 @@
 @media screen and (max-width: 500px) {
     #home-header {
         flex-direction: column;
+        text-align: center;
     }
 }
 
@@ -42,6 +43,7 @@
     #home section {
         width: 85%;
         font-size: 1em;
+        text-align: center;
     }
 }
 
